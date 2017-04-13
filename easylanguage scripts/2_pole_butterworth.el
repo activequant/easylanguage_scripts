@@ -1,4 +1,6 @@
 {2 Pole Butterworth Filter - //// From 'Cybernetic Analysis for Stocks and Futures' by John Ehlers //// code compiled by dn
+/////  - coded by Dave Newberg - http://www.davenewberg.com /////
+
 } // plot on a subgraph separate from the price region.
 
 Input: Price((H+L)/2), Period(15);

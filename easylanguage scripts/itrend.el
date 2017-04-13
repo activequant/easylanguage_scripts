@@ -1,4 +1,4 @@
-///// EHLERS INSTANTANEOUS TREND INDICATOR /////
+///// EHLERS INSTANTANEOUS TREND INDICATOR  - coded by Dave Newberg - http://www.davenewberg.com /////
 Inputs: Price ((H+L)/2), alpha(.07);
 
 Vars: Smooth(0),

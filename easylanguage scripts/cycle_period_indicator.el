@@ -1,3 +1,4 @@
+/////  - coded by Dave Newberg - http://www.davenewberg.com /////
 ///// Cycle Period Indicator by John Ehlers - Measures the Cycle Period - coded by dn
 //// From Cybernetic Analysis for Stocks and Futures
 Inputs: Price((H+L)/2);

@@ -1,3 +1,4 @@
+/////  - coded by Dave Newberg - http://www.davenewberg.com /////
 Inputs: price((H+L)/2),
 Len(13);
 

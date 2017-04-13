@@ -1,4 +1,4 @@
-{Ehlers MAMA and FAMA indicator - coded by dn
+{Ehlers MAMA and FAMA indicator - coded by Dave Newberg - http://www.davenewberg.com
 //// From Cybernetic Analysis for Stocks and Futures}
 
 Inputs: Price((H+L)/2), FastLimit(.5),SlowLimit(.05);

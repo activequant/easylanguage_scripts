@@ -1,3 +1,4 @@
+/////  - coded by Dave Newberg - http://www.davenewberg.com /////
 //// Ehlers Cyber Cycle indicator - coded by dn
 //// From Cybernetic Analysis for Stocks and Futures
 

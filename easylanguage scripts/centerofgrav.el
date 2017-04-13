@@ -1,3 +1,4 @@
+/////  - coded by Dave Newberg - http://www.davenewberg.com /////
 //// Ehlers Center of Gravity Oscillator - coded by dn
 //// From Cybernetic Analysis for Stocks and Futures
 
