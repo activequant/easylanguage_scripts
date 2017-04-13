@@ -1,4 +1,4 @@
-# Ulrich's little EasyLanguage scripts
+# GhostRider's little EasyLanguage scripts
 
 _Disclaimer: EasyLanguage is a proprietary programming language related to TradeStation. I am not the owner of this trademark and am not affiliated with EasyLanguage or TradeStation. _
 
