@@ -1,6 +1,6 @@
 # GhostRider's little EasyLanguage scripts
 
-_Disclaimer: EasyLanguage is a proprietary programming language related to TradeStation. I am not the owner of this trademark and am not affiliated with EasyLanguage or TradeStation. _
+_Disclaimer: EasyLanguage is a proprietary programming language related to TradeStation. I am not the owner of this trademark and am not affiliated with EasyLanguage or TradeStation._
 
 _Risk disclaimer: This set of scripts is collected from all over the web. Your usage of these scripts happens at your own risk and we do not endorse using these scripts in a live trading environment._
 
